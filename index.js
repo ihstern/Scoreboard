@@ -1,8 +1,8 @@
 let homeScore = document.getElementById("home-score")
 let guestScore = document.getElementById("guest-score")
 
-homeNum = 0
-guestNum = 0
+let homeNum = 0
+let guestNum = 0
 homeScore.textContent = 0
 guestScore.textContent = 0
 
